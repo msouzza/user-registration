@@ -1,4 +1,4 @@
-# user-registration
+# Registro de Usuários
 
 Aplicação básica Backend e Frontend para cadastro de usuários
 CRUD básico
